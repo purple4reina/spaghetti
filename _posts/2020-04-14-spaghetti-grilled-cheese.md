@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     * 2 slices bread
     * 2 slices cheese
-    * 1 hand full spaghetti
+    * 1 handful spaghetti
     * 1 jar marinara sauce
     * Butter
   directions_markdown: |-

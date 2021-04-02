@@ -11,9 +11,9 @@ recipe:
   ingredients_markdown: |-
     * 4 eggs
     * Butter
-    * 1 hand full spaghetti
+    * 1 handful spaghetti
     * 1 jar marinara sauce
-    * 1 hand full shredded cheese
+    * 1 handful shredded cheese
     * Salt and pepper to taste
   directions_markdown: |-
     1. Boil water and cook spaghetti as directed.

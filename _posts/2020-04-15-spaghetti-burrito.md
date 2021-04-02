@@ -10,7 +10,7 @@ recipe:
   cook: 10 minutes
   ingredients_markdown: |-
     * 1 tortilla
-    * 1 hand full spaghetti
+    * 1 handful spaghetti
     * 1 jar marinara sauce
     * 1/2 cup cooked spinach
     * Parmesan cheese to taste

@@ -10,7 +10,7 @@ recipe:
   cook: 10 minutes
   ingredients_markdown: |-
     * 1 can Bush's Vegetarian Baked Beans
-    * 1 big hand full of spaghetti
+    * 1 big handful of spaghetti
   directions_markdown: |-
     1. Boil water and cook spaghetti as directed.
     2. In another pot, empty the can of beans and heat on medium-high until

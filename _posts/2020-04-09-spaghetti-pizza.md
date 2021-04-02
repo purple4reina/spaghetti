@@ -10,9 +10,9 @@ recipe:
   cook: 25 minutes
   ingredients_markdown: |-
     * 1 tortilla
-    * 1 hand full Spaghetti
+    * 1 handful Spaghetti
     * 1 jar marinara sauce
-    * 2 hand fulls shredded cheese
+    * 2 handfuls shredded cheese
     * 1 can of pineapple
   directions_markdown: |-
     1. Pre heat oven to 350°F.
