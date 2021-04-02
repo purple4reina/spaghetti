@@ -3,7 +3,7 @@ date: 2020-04-09
 title: Spaghetti Pizza
 categories:
   - Pizza
-featured_image: https://lh3.googleusercontent.com/2bZev_geJYrUGJ5eMA4gNFMRFv7pcy-taF0mn_Nqx0ImcW_dMhHIc4wgYz2p5yesH-0xDXOiszguoetZDVt15mrE5YzQ31bLdfwDVQg6kV62VPiFDID2gEqpKiR7m_gvS7ZcxQ4TMog=w600-h315-p-k
+featured_image: https://lh3.googleusercontent.com/Y_QpRam0Yon4zyKuFce6uL-BU7RfpD9FnPSDp6LiqcQRjqaidqL1Q7GLeOrnbiNYsGp34WUgcGC3FVMTxKsUxc3sap5ssGFG9nqSTiLW6o4eBr4i4dbADedg25N36iZp5Q1_AG6w1e0=w2400
 recipe:
   servings: 1 pizza
   prep: 5 minutes
