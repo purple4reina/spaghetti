@@ -2,11 +2,13 @@
 # Site
 
 title: Spaghetti
-url: "https://localhost:4000"
-baseurl: ""
+url: "https://purple4reina.github.io"
+baseurl: "/spaghetti"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
+
+remote_theme: CloudCannon/treat-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
