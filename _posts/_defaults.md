@@ -1,12 +1,13 @@
 ---
-title:
+date: YYYY-MM-DD
+title: 
 categories:
-date:
-featured_image:
+  - 
+featured_image: 
 recipe:
-  servings:
-  prep:
-  cook:
-  ingredients_markdown:
-  directions_markdown:
+  servings: 
+  prep: 
+  cook: 
+  ingredients_markdown: |-
+  directions_markdown: |-
 ---
