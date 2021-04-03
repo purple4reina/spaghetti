@@ -12,7 +12,7 @@ remote_theme: CloudCannon/treat-jekyll-template
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: What to do with a lot of spaghetti.
+description: What to do with a lot of spaghetti
 author:
   name: Rey Abolofia
   email: purple4reina@gmail.com
