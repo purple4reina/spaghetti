@@ -3,6 +3,7 @@ date: 2020-05-18
 title: Spaghetti Omelette
 categories:
   - Wraps
+  - Breakfast
 featured_image: https://lh3.googleusercontent.com/-SoLjPlZ2rMAuO9tWBBDS_GCzUV921VJj3BEUi6Pp4UJlto-5EfjgmQ8rsGEhaeIRAu6fn_ndtW-53rEItN3JAx4LJAaZ0DZyMvd6R_d10VVWeYGMBV1snYp-mqHZKJF7tGtOFmhXcE=w2400
 recipe:
   servings: 1 large omelette
